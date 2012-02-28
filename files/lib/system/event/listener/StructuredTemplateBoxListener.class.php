@@ -7,7 +7,7 @@ require_once(WCF_DIR.'lib/system/event/EventListener.class.php');
  * Shows the boxes.
  * 
  * @author	Sebastian Oettl
- * @copyright	2009-2011 WCF Solutions <http://www.wcfsolutions.com/index.php>
+ * @copyright	2009-2012 WCF Solutions <http://www.wcfsolutions.com/index.php>
  * @license	GNU Lesser General Public License <http://opensource.org/licenses/lgpl-license.php>
  * @package	com.woltlab.community.wbb.box
  * @subpackage	system.event.listener
